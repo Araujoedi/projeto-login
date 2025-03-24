@@ -1,0 +1,1 @@
+Seus dados serão enviados para o servidor, e o servidor irá processar esses dados e retornar uma resposta. Se o login for bem sucedido, você será redirecionado para a página de perfil. Se o login falhar, você será redirecionado para a página de login com uma mensagem de erro.
